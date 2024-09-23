@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300..700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&display=swap');
+a{
+    text-decoration: none;
+    color: black;
+}
+header{
+    display: flex;
+    margin: 3rem 5rem 3rem 10rem;
+}
+header span.circulo{
+    color: white;
+    background-color: black;
+    border-radius: 1000px;
+    padding: 9px 13px 9px 13px;
+}
+header ul {
+    display: flex;
+    margin: 0 0 0 65vw;
+}
+header ul li {
+    margin: 0 1vw 0 0;
+}
+section.Samantha{
+    display: flex;
+    margin: 3rem 5rem 3rem 10rem;
+}
+section.Samantha div.Mulher img {
+    border-radius: 2000px;
+}
+section.Samantha div.texto{
+    margin: 8vw ;
+}
+section.Samantha h1{
+    font-size: 3rem;
+    font-family: "Quicksand", sans-serif;
+    font-weight: 600;
+}
+section.Samantha p{
+    font-family: "Quicksand", sans-serif;
+    padding: 3rem 0 0 0;
+}
+section.Samantha p.wiliam{
+    font-weight: 600;
+}
+section.Samantha span.circulo{
+    color: grey;
+}
